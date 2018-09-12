@@ -4,3 +4,7 @@
 | 04/09/18  | Week 2 In Progress LR using NN is done | Yes | Revise Graphs and Derivatives (Log and Exponential Functions |
 | 05/09/18  | Week 2 Assignment Done and Completed | Yes | np.reshape() is a problem, Function of optimizer is also to be discussed |
 | 06/09/18  | Week 3 Started Till Activation Functions | Yes | Why we use non linear Activation Function is Done and Understood! Explore more about various Activation Functions|
+| 10/09/18  | Week 3 Done | Yes | Revise Derivatives of all. Don't cram formulas derive formulas later on or in interviews|
+| 11/09/18  | Week 3 Completed with Programming Exercise | Yes | np.squeeze(), also sigmoid function does not computes the final output, log loss and cross entropy loss difference|
+| 12/09/18  | Week 4 Videos done with Assingment | Yes | Backprop equations is still a gray area, hopefully this assignment will clear it|
+
