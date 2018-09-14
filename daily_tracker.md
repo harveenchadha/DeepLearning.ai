@@ -15,4 +15,4 @@
 
 | Date        | Videos Done           | On Track  | Comments |
 | ------------- |:-------------:| -----:|-----------------|
-| 02/09/18  | Week 1 Done till Regularization | Yes |L1 Regularization, L2 Regularization and (np.dot, np.muliply and np.matmul difference |
+| 14/09/18  | Week 1 Done till Regularization | Yes |L1 Regularization, L2 Regularization and (np.dot, np.muliply and np.matmul difference |
