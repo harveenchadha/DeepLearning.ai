@@ -1,3 +1,5 @@
+## Course 1
+
 | Date        | Videos Done           | On Track  | Comments |
 | ------------- |:-------------:| -----:|-----------------|
 | 02/09/18  | Week 1 Done | Yes | Will See Hinton's Interview after this course |
@@ -9,3 +11,8 @@
 | 12/09/18  | Week 4 Videos done with Assingment | Yes | Backprop equations is still a gray area, hopefully this assignment will clear it|
 | 13/09/18  | Week 4 Assingments are done | Yes |  Had hard time visualizing backpropagation but finally got the course certificate and knowledge, moving on to next|
 
+## Course 2
+
+| Date        | Videos Done           | On Track  | Comments |
+| ------------- |:-------------:| -----:|-----------------|
+| 02/09/18  | Week 1 Done till Regularization | Yes |L1 Regularization, L2 Regularization and (np.dot, np.muliply and np.matmul difference |
