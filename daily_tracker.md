@@ -16,3 +16,4 @@
 | Date        | Videos Done           | On Track  | Comments |
 | ------------- |:-------------:| -----:|-----------------|
 | 14/09/18  | Week 1 Done till Regularization | Yes |L1 Regularization, L2 Regularization and (np.dot, np.muliply and np.matmul difference |
+| 18/09/18  | Week 1 Done Complete | Yes |L1 Regularization, L2 Regularization are still points that need more attention, Gradient Checking is theoretical, will try to dive in further |
