@@ -18,3 +18,10 @@
 | 14/09/18  | Week 1 Done till Regularization | Yes |L1 Regularization, L2 Regularization and (np.dot, np.muliply and np.matmul difference |
 | 18/09/18  | Week 1 Done Complete | Yes |L1 Regularization, L2 Regularization are still points that need more attention, Gradient Checking is theoretical, will try to dive in further |
 | 19/09/18  | Week 2 Done Till GD with Momentum | Yes | Exponential Weighted Averages a beautiful Algo for averaging out and then use GD with momentum (which means exponential averaging out the gradients)|
+| 22/09/18  | Completed Tensorflow | Yes | Revise Tensorflow implementation. On to course 3|
+
+
+## Course 3
+
+| Date        | Videos Done           | On Track  | Comments |
+| ------------- |:-------------:| -----:|-----------------|
