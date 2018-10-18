@@ -26,3 +26,4 @@
 | Date        | Videos Done           | On Track  | Comments |
 | ------------- |:-------------:| -----:|-----------------|
 | 16/10/2018 | Week 1 Completed | Yes | Very Basic Chapters and comments but interesting exercise to work on. |
+| 18/10/2018 | Week 2 Completed | Yes | Got the Certificate but most importantly got some theoretical concepts which I would have never known. For example: multi class learning |
