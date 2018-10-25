@@ -27,3 +27,16 @@
 | ------------- |:-------------:| -----:|-----------------|
 | 16/10/2018 | Week 1 Completed | Yes | Very Basic Chapters and comments but interesting exercise to work on. |
 | 18/10/2018 | Week 2 Completed | Yes | Got the Certificate but most importantly got some theoretical concepts which I would have never known. For example: multi class learning |
+
+
+
+## Course 4
+
+| Date        | Videos Done           | On Track  | Comments |
+| ------------- |:-------------:| -----:|-----------------|
+| 21/10/2018 | Week 1 In Progress | Yes | Beautifully explained the concept of Convolutions over Volumes. Also the use of Stride and Padding |
+| 22/10/2018 | Week 1 Completed | Yes | Completed the week but still need to find out how backpropagation updates the weights of the filters. It is there is Exercise 1 optional assignment. Sad that there is no video to support that |
+| 23/10/2018 | Week 2 1st half Videos Completed | Yes | Beautiful concepts explaining the Architectures and 1X1 Convolutions and ResNets |
+| 24/10/2018 | Week 2 Videos Completed | Yes | Videos were too long. Explains Inception Networks where we use every type of convolution and some good practices for competitions, ensembling and test time cropping |
+| 25/10/2018 | Week 2 Completed | Yes | Completed Assigments. There were two parts of Resnets in the Assignment: Identity-in which the size while addition is the same, Convolutional: where we perform the required convolution before adding to perform the addition |
+
