@@ -39,4 +39,9 @@
 | 23/10/2018 | Week 2 1st half Videos Completed | Yes | Beautiful concepts explaining the Architectures and 1X1 Convolutions and ResNets |
 | 24/10/2018 | Week 2 Videos Completed | Yes | Videos were too long. Explains Inception Networks where we use every type of convolution and some good practices for competitions, ensembling and test time cropping |
 | 25/10/2018 | Week 2 Completed | Yes | Completed Assigments. There were two parts of Resnets in the Assignment: Identity-in which the size while addition is the same, Convolutional: where we perform the required convolution before adding to perform the addition |
+| 29/10/2018 | Week 3 Videos Completed | Yes | Concepts of YOLO were awesome, please revise them again |
+| 30/10/2018 | Week 3 Videos Complete | Yes | YOLO Assignment went over the head did not undestood anything |
+| 05/11/2018 | Week 4 Face Recognition done | Yes | Very Interesting Presentation and triplet loss looks good on paper but have to implement it as soon as possible |
+| 07/11/2018 | Week 4 Videos Neural Style Transfer Done | Yes | Style loss and content loss. Content loss difference between activations of a single layer and style loss is the difference of correlation between different channels of the image(gram matrix) this is done on mulitple layers |
+| 08/11/2018 | Week 4 Complete and Got the Certificate | Yes | Theory looks good on paper but actual implementation will be the key to success|
 
