@@ -45,3 +45,10 @@
 | 07/11/2018 | Week 4 Videos Neural Style Transfer Done | Yes | Style loss and content loss. Content loss difference between activations of a single layer and style loss is the difference of correlation between different channels of the image(gram matrix) this is done on mulitple layers |
 | 08/11/2018 | Week 4 Complete and Got the Certificate | Yes | Theory looks good on paper but actual implementation will be the key to success|
 
+
+## Course 5
+
+| Date        | Videos Done           | On Track  | Comments |
+| ------------- |:-------------:| -----:|-----------------|
+| 15/11/2018 | Week 1 In Progress | Yes | What are RNN's, Applications of Sequence Models |
+
