@@ -51,4 +51,4 @@
 | Date        | Videos Done           | On Track  | Comments |
 | ------------- |:-------------:| -----:|-----------------|
 | 15/11/2018 | Week 1 In Progress | Yes | What are RNN's, Applications of Sequence Models |
-
+| 16/11/2018 | Week 1 In Progress | Yes | Different RNN architectures, Backpropagation through time |
